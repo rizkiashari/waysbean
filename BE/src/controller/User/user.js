@@ -71,7 +71,6 @@ exports.createUser = async (req, res) => {
     res.status(400).send({
       status: "failed",
       message: "Sign Up Invalid",
-      error,
     });
   }
 };
