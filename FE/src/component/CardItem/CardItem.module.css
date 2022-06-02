@@ -1,0 +1,19 @@
+
+.BodyImage{
+  background-color:  #F6E6DA;
+}
+.Title{
+  font-size: 16px;
+  font-weight: 700;
+}
+.Price{
+  font-size: 12px !important ;
+  color:#974A4A;
+}
+.Stock{
+  font-size: 12px !important;
+  color: #974A4A;
+}
+.Pointer{
+  cursor: pointer;
+}

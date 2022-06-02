@@ -1,0 +1,28 @@
+.Custome{
+  margin-top: 4rem;
+}
+.Title{
+  font-size: 1.7rem;
+  color:#613D2B;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.SubTitle{
+  margin-bottom: 1px;
+}
+.Total{
+  margin-top: 10px;
+  color : #974A4A;
+}
+.BtnProcces{
+  background-color: #613D2B !important;
+  border: none !important;
+  color: #FFFFFF !important;
+  padding: 5px 0px;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 16.6rem;
+  margin-top: 10px;
+  width: 40%;
+  text-decoration: none;
+}

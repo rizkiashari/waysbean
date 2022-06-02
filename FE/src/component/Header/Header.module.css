@@ -1,0 +1,47 @@
+.Navbar{
+  box-shadow: -1px 1px 20px 0px rgba(0,0,0,0.65);
+}
+.btnLogin{
+  margin-right: 10px;
+  width: 100px;
+  background-color: #fff !important;
+  border: #613D2B solid 2px !important;
+  color: #613D2B !important;
+}
+.btnRegister{
+  width: 100px;
+  background-color: #613D2B !important;
+  color: #ffffff !important;
+  border: none !important;
+}
+.LogoutBtn{
+  background-color: transparent !important;
+  border: none !important;
+  color: #000000 !important;
+}
+.BtnAdd{
+  background-color: transparent !important;
+  border: none !important;
+  color: #000000 !important;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+.Arrow{
+  position: absolute;
+  width: 0; 
+  height: 0;
+  top: -10px;
+  right: 20px;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent; 
+  border-bottom: 18px solid #ffffff;
+}
+.DropDown{
+  margin-top: 10px;
+}
+.Image{
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

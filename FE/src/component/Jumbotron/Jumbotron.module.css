@@ -1,0 +1,25 @@
+.jbContainer{
+  display: flex;
+  width: 65%;
+  margin: 40px auto;
+  background-color: #DBB699;
+  border: 2px solid #DBB699;
+  padding: 50px 40px;
+  border-radius: 5px;
+}
+.jbContent{
+  display: flex;
+  flex-direction: column;
+}
+.Wave{
+  position: absolute;
+  width: 250px;
+  top: 30rem;
+  left: 45rem;
+  z-index: 1 !important;
+}
+.Coffee{
+  width: 550px;
+  margin-left: 10px;
+  z-index: -1 !important;
+}
