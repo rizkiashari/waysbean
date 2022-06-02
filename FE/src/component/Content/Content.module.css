@@ -1,0 +1,9 @@
+.NotFound{
+  width: 30%;
+  margin: 0 35%;
+}
+.Content{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+}

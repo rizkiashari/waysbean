@@ -1,0 +1,16 @@
+.Trash{
+  width: 20px;
+}
+.BtnTrash{
+  background-color: transparent !important;
+  border: none !important;
+  width: 55px;
+  margin-left: 1.8rem;
+}
+.BtnMin,.BtnPlus{
+  background-color:transparent !important;
+  border:none !important;
+  color: #613D2B !important;
+  font-weight: 700;
+  font-size: 20px;
+}

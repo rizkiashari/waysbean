@@ -1,0 +1,27 @@
+.ModalContainer{
+  margin-top: 210px;
+}
+.FormCustom{
+  padding: 34px 50px;
+}
+.Title{
+  color: #613D2B;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+.FormInput{
+  background-color: #613D2B40 !important;
+  border: 2px solid #613D2B !important;
+  margin-bottom: 30px;
+}
+.ButtonSignIn{
+  background-color: #613D2B !important;
+  border: none !important;
+  width: 100%;
+}
+.Dont{
+  margin-top: 10px;
+  margin-bottom: -10px;
+  text-align: center;
+  color: #613D2B;
+}

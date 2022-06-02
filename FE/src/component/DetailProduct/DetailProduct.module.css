@@ -1,0 +1,14 @@
+.Image{
+  margin-top: 5rem;
+  width: 100%;
+  margin-right: 5rem;
+}
+.Conter{
+  display: flex;
+  align-items: center;
+}
+.BtnCart{
+  background-color: #613D2B !important;
+  border: none !important;
+  width: 100%;
+}

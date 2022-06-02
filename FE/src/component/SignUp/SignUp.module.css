@@ -1,0 +1,35 @@
+.Dont{
+  margin-top: 10px;
+  margin-bottom: -10px;
+  text-align: center;
+  color: #613D2B;
+}
+.FormCustom{
+  padding: 34px 50px;
+}
+.ModalContainer{
+  margin-top: 140px;
+}
+.Title{
+  color: #613D2B;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+.FormInput{
+  background-color: #613D2B40 !important;
+  border: 2px solid #613D2B !important;
+  margin-bottom: 30px;
+}
+.ButtonSignUp{
+  background-color: #613D2B !important;
+  border: none !important;
+  width: 100%;
+}
+.SelectInput{
+  width: 100%;
+  background-color: #613D2B40 !important;
+  border: 2px solid #613D2B !important;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}

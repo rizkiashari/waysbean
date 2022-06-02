@@ -1,0 +1,31 @@
+.Title{
+  margin-top: 5rem;
+  color: #613D2B;
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+.Image{
+  margin-top: 3rem;
+  object-fit: cover;
+}
+.Form{
+  padding-right: 50px;
+}
+.FormInput{
+  background-color: #613D2B40 !important;
+  border: 2px solid #613D2B !important;
+  margin-bottom: 30px;
+  padding: 5px 10px;
+}
+.Attach{
+  background-color: #613D2B40 !important;
+  border: 2px solid #613D2B !important;
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+.Pay{
+  background-color: #613D2B !important;
+  margin-top: 1rem;
+  margin-left: -30px;
+  width: 112%;
+}

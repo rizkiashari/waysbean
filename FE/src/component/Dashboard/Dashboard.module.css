@@ -1,0 +1,27 @@
+.Title{
+  margin-top: 5rem;
+  color: #613D2B;
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+.BtnCancel{
+  background-color: #ec0f0f !important;
+  border: none !important;
+  margin-right: 10px;
+}
+.BtnApprove{
+  background-color: #0ACF83 !important;
+  border: none !important;
+}
+.WaitingApprove{
+  color: #FF9900;
+}
+.Success{
+  color: #78A85A;
+}
+.Cancel{
+  color: #E83939;
+}
+.OnTheWay{
+  color: #00D1FF;
+}
