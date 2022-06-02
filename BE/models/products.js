@@ -11,7 +11,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       Product.belongsToMany(models.transaction, {
         through: {
-          model: "order",
+          model: "Orders",
         },
         foreignKey: {
           name: "productId",
@@ -29,7 +29,7 @@ module.exports = (sequelize, DataTypes) => {
     },
     {
       sequelize,
-      modelName: "product",
+      modelName: "Product",
       tableName: "products",
     }
   );
